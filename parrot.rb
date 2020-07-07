@@ -4,5 +4,6 @@
 def parrot(sound = "Squawk!")
   puts "A bird goes #{sound}."
   return parrot
+  end
 end
 parrot("tweet tweet")
