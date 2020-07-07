@@ -3,7 +3,7 @@
 
 def parrot(sound = "Squawk!")
   puts "A bird goes #{sound}."
-  return parrot
+  
   
 end
 parrot("tweet tweet")
