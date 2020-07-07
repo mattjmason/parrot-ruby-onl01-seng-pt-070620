@@ -3,6 +3,5 @@
 
 def parrot(default = "Squawk!")
   puts "#{default}"
-  
 end
-bird("tweet tweet")
+parrot()
