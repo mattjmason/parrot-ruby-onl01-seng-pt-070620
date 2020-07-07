@@ -2,7 +2,7 @@
 # returns the phrase
 
 def parrot(default = "Squawk!")
-  puts 
+  puts "#{default}"
   
 end
 bird("tweet tweet")
